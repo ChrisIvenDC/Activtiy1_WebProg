@@ -1,0 +1,27 @@
+.Main {
+  justify-content: space-between;
+  display: flex;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.Card {
+  margin:10px;
+  box-shadow: 2px 2px 5px 1px rgba(44, 41, 41, 0.315) ;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  width:33%;
+  padding-bottom: 5%;
+  border-radius: 5%;
+}
+
+.Image {
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 20%;
+  border:30px solid hwb(180 19% 80%);
+  box-shadow: 2px 2px 5px 1px rgba(44, 41, 41, 0.315) ;
+  height: 1px;
+  width: 1px;
+  border-radius: 50%;
+}
